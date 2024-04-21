@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[1519],{6495:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/poro-docs/blog/tags/facebook","allTagsPath":"/poro-docs/blog/tags","count":1,"unlisted":false}')}}]);
