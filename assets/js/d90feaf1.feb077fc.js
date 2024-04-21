@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[6409],{7447:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/poropilot-docs/blog/tags/facebook","allTagsPath":"/poropilot-docs/blog/tags","count":1,"unlisted":false}')}}]);
