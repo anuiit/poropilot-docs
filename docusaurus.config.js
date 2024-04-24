@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'PoroPilot',
   tagline: 'Riot API made easy.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/poro-reduce.ico',
 
   // Set the production url of your site here
   url: 'https://anuiit.github.io',
@@ -61,12 +61,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/poro-reduce.png',
       navbar: {
         title: 'PoroPilot',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/poro-reduce.png',
         },
         items: [
           {
