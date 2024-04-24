@@ -1,7 +1,7 @@
 # Summoner
 
 :::warning
-This API is planned to be deprecated, if you are still using endpoints from this section you should update your requests to the [Account](/Endpoints/account.md) API.
+This API is planned to be deprecated, if you are still using endpoints from this section you should update your requests to the [Account](/APIs/account.md) API.
 :::
 
 The Summoner API is a part of the PoroPilot library that provides methods to retrieve information about a summoner in the game League of Legends.
